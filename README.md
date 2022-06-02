@@ -4,6 +4,10 @@
 
 <!-- ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritamwaikinda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ritamwaikinda" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritamwaikinda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ritamwaikinda" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritamwaikinda&theme=highcontrast&hide_border=true" alt="ritamwaikinda" /> </p> -->
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ritamwaikinda&theme=onedark)](https://github.com/ritamwaikinda/github-profile-trophy) -->
+
+
+
 <!--
 **ritamwaikinda/ritamwaikinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
